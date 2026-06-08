@@ -1,0 +1,7 @@
+{
+  "name": "tugas03-crypto-vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
